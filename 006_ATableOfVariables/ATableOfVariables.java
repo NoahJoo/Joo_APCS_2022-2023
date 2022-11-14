@@ -23,3 +23,18 @@ public class HelloWorld
      
     }
 }
+
+/*
+
+0/1 - Compiles?
+1/1 - Accurate versus the instructions?
+1/1 - Formatting?
+1/1 Comments
+
+Late - 1/2 points
+
+1.5/4
+
+I'll be nice and round up.
+
+ */
