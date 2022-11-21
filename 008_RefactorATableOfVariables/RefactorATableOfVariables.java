@@ -4,3 +4,9 @@ public class RefactorATableOfVariables {
         System.out.println();
     }   
 }
+
+/*
+
+There is nothing to grade here. 0/4
+
+ */
