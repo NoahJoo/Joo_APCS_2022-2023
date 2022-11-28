@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.Scanner;
  
 
- public class GFG {
+ public class EvenOrOdd {
     public static void main(String[] args)
     {
         int num = 10;
