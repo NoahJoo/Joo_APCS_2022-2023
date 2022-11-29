@@ -6,7 +6,7 @@ public class SimpleCounter {
         Scanner scan = new Scanner(System.in);
         System.out.println(x: "Type any number you want");
         int num = scan.nextIn();
-        int i = 1;
+        int i = 0;
 
         while (i <= num) {
             i++;
