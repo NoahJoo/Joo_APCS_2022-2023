@@ -1,8 +1,8 @@
 public class PopulationProjection
 {
-    {
+   
         public static void main(String[] arge)
-        
+         {
         double birth = 7;
         double death = 13;
         double immigrant = 45;

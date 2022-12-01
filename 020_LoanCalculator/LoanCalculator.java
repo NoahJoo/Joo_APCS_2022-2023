@@ -1,4 +1,5 @@
 import java.util.Scanner; 
+
 public class LoanCalculator {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
@@ -14,6 +15,7 @@ public class LoanCalculator {
 
         int number = (calculator.integerMultiplier(principle_Balance, calculator.integerSubtractor(Annual_Interest_Rate, Remaining_Months)));
         System.out.println(number);
+        
         System.out.println(calculator.integerSubtractor(principal_Balance, Remaining_Months)-number);
         scan.close();
 
