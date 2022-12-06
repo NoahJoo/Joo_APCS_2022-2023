@@ -1,4 +1,4 @@
-import java.util.Scanner
+import java.util.Scanner;
 
 public class FizzBuzzWhileLoop {
 
@@ -7,7 +7,7 @@ public class FizzBuzzWhileLoop {
         int i = 0;
         
         while (i <= 100) {
-            i++
+            i++;
         if ( (i % 3) == 0 && (i % 5) == 0 ) {
             System.out.println(+i + " FizzBuzz");
             break;
@@ -21,4 +21,4 @@ public class FizzBuzzWhileLoop {
         }
 
     }
-}¡
+}
