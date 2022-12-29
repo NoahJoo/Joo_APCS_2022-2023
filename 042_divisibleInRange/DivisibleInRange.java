@@ -18,8 +18,14 @@ public class DivisibleInRange {
         a = in.nextInt();
 
         for (int i = x; i <= y; i++) {
+<<<<<<< HEAD
             if (i % a == 0 ) {
                 b++;
+=======
+            if (i % a == 0 || i <= y) {
+                b++;
+                System.out.println(+i);
+>>>>>>> 89ca485c7772c80cdbddeb2c8ba266b6768ef959
             }
         }
         System.out.println(+b);
